@@ -1,0 +1,81 @@
+.bor:hover {
+    color :rgb(238, 83, 83)
+    
+}
+a {
+    text-decoration: none;
+}
+a {
+    margin-right: 100px;
+}
+a {
+    color :white
+}
+body{
+    background: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    margin: 0;
+  }
+  .form1{
+      height: 129px;
+      width: 500px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+
+  }
+  form {   
+  }
+  .bor{
+      font-size: 25px;
+  }
+  .img {
+    float: left;
+  }
+  #img1 {
+      background-image: url("../c1.PNG");
+  }
+  #img2 {
+      background-image: url("../c2.PNG");
+  }
+  #img3{
+      background-image: url("../c3.png");
+  }
+  #img4{
+      background-image: url("../c4.png");
+  }
+  #img5{
+      background-image: url("../c5.png");
+  }
+  #img6{
+      background-image: url("../cc.png");
+  }
+  #img7{
+      background-image: url("../c7.png");
+  }
+  #img8{
+      background-image: url("../cd.png");
+  }
+  #img9{
+      background-image: url("../c9.png");
+  }
+  .basic{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 30%;
+      height: 200px;
+  }
+
+  .images{
+      width: 50%;
+      margin: auto;
+      display: flex;
+  }
+  #bt{
+      display: none;
+      position:relative;
+      left:70%;
+  }
